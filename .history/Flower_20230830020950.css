@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+}
+.Section1{
+    background-color: rgb(250, 187, 196);
+    height:500px;
+    width: 100%;
+}
+#HeaderText{
+    padding: 100px
+}

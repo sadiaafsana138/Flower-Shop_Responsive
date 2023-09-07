@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    font-family: Lato;
+}
+.Section1{
+    background-color: rgb(248, 209, 215);
+    height:500px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+#HeaderText1{
+    padding: 100px 70px 0px 100px;
+    font-size:  25px;
+    font-style: normal;
+    font-weight: 800; 
+    padding-bottom:5px;
+}
+#HeaderText2{
+    padding: 10px 0px 0px 100px; 
+    font-size:  10px;
+    font-style: normal;
+    font-weight: 800; 
+    padding-bottom:5px;
+}
+
+
+

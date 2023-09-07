@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+}
+.Section1{
+    background-color: rgb(248, 209, 215);
+    height:500px;
+    width: 100%;
+    display: flex;
+}
+.HeaderText{
+    padding: 70px 70px 0px 70px; 
+}
+#HeaderText1{
+    font-family: Lato;
+    font-size:  25px;
+    font-style: normal;
+    font-weight: 800; 
+    padding-bottom:5px;
+}
+#HeaderText2{
+    padding: 70px 200px 100px 70px; 
+}
+
+
+
